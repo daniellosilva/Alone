@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"danielwalking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"danielface","traits":[],"initialLevel":1,"maxLevel":1,"name":"???","nickname":"???","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"mikeandando","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mike","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mike","nickname":"Mike","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"SF_Monster","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":1,"name":"Mike Monstro","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"danielpailutando","characterIndex":0,"characterName":"danielpaiandando","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"danielpaiface","traits":[],"initialLevel":1,"maxLevel":1,"name":"Pai","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"danielcriançaandando","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"danielcriança","traits":[],"initialLevel":1,"maxLevel":99,"name":"???","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
